@@ -1,1 +1,1 @@
-{ "email": "test@gmail.com", "balance": 1000, "created_at": 1707424753, "overdraft": 0, "role":["admin", "administrator"]}
+{ "email": "test@gmail.com", "balance": 1000, "created_at": 1707424753, "overdraft": 0, "role":["admin", "collaborator"]}
