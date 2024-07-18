@@ -6,21 +6,18 @@
 [
 	{
 		"created_at": "17207176910",
-		"repository_id": "CAR#UVX454",
 		"helper_price": 0.1e4,
-		"id": "981016c8-103d-4432-aaa2-2ddeb10fac91"
+		"PK": "TASK#981016c8-103d-4432-aaa2-2ddeb10fac91"
 	},
 	{
 		"created_at": "1874892904",
-		"repository_id": "CAR#UTF293",
 		"helper_price": 0.1e4,
-		"id": "12345-103d-4432-aaa2-2ddeb10fac91"
+		"PK": "TASK#12345-103d-4432-aaa2-2ddeb10fac91"
 	},
 	{
 		"created_at": "17207176934",
-		"repository_id": "CAR#HEW952",
 		"helper_price": 0.1e4,
-		"id": "54321-103d-4432-aaa2-2ddeb10fac91"
+		"PK": "TASK#54321-103d-4432-aaa2-2ddeb10fac91"
 	}
 ]
 ```
