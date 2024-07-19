@@ -6,18 +6,21 @@
 [
 	{
 		"created_at": "17207176910",
-		"helper_price": "124",
-		"PK": "TASK#981016c8-103d-4432-aaa2-2ddeb10fac91"
+		"name": "Hola",
+		"PK": "TASK#981016c8-103d-4432-aaa2-2ddeb10fac91",
+		"state": "PENDING"
 	},
 	{
 		"created_at": "1874892904",
-		"helper_price": "1000",
-		"PK": "TASK#12345-103d-4432-aaa2-2ddeb10fac91"
+		"name": "Ubicabilidad",
+		"PK": "TASK#12345-103d-4432-aaa2-2ddeb10fac91",
+		"state": "PENDING"
 	},
 	{
 		"created_at": "17207176934",
-		"helper_price": "2000",
-		"PK": "TASK#54321-103d-4432-aaa2-2ddeb10fac91"
+		"name": "Automotor",
+		"PK": "TASK#54321-103d-4432-aaa2-2ddeb10fac91",
+		"state": "ACCEPTED"
 	}
 ]
 ```
@@ -34,6 +37,8 @@
   "person_id": "PERSON#CC-1002160232",
   "repository_type": "PERSON",
   "service_id": "SERVICE#3",
-  "state": "ACCEPTED"
+  "state": "ACCEPTED",
+  "name": "Automotor Runt",
+  "helper_price": 9.9e+7
 }
 ```
