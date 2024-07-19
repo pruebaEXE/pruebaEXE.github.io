@@ -8,19 +8,21 @@
 		"created_at": "17207176910",
 		"name": "Hola",
 		"PK": "TASK#981016c8-103d-4432-aaa2-2ddeb10fac91",
-		"state": "PENDING",
+		"state": "ACCEPTED",
     	"helper_price": "1000"
 	},
 	{
 		"created_at": "1874892904",
 		"name": "Ubicabilidad",
 		"PK": "TASK#12345-103d-4432-aaa2-2ddeb10fac91",
+		"state": "ACCEPTED",
 		"helper_price": "1000"
 	},
 	{
 		"created_at": "17207176934",
 		"name": "Automotor",
 		"PK": "TASK#54321-103d-4432-aaa2-2ddeb10fac91",
+		"state": "ACCEPTED",
 		"helper_price": "1000"
 	}
 ]
