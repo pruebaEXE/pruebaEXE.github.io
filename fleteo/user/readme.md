@@ -5,16 +5,16 @@
 
 ```
 {
-    "updated_at": 1720453646,
+    "email": "jsantander1219@gmail.com",
+    "created_at": "0.1723469094e10",
+    "updated_at": "0.1723646136e10",
+    "balance": "0.9e4",
+    "overdraft": "0.0",
+    "number_of_subscriptions": "0.1e4",
     "censored": true,
-    "notify_fcm": true,
-    "balance": 0.0,
-    "created_at": 1720452938,
-    "number_of_subscriptions": 1000,
-    "overdraft": 0.0,
-    "email": "jsantanderplay1219@gmail.com",
     "user_roles": [
         "admin"
-    ]
+    ],
+    "notify_fcm": true
 }
 ```
