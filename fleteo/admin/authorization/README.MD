@@ -1,0 +1,53 @@
+## INDEX AUTORIZACIONES
+
+```json
+[
+  {
+    "created_at": 1724854703,
+    "discount_rate": "10%",
+    "helper": true,
+    "id": "123456",
+    "service_id": "service-7890",
+    "updated_at": 1724854703,
+    "user_id": "user-123"
+  },
+  {
+    "created_at": 1724854703,
+    "discount_rate": "15%",
+    "helper": false,
+    "id": "789012",
+    "service_id": "service-4567",
+    "updated_at": 1724854703,
+    "user_id": "user-456"
+  }
+]
+```
+
+## NEW AUTHORIZATION
+
+```json
+{
+  "created_at": 1724854703,
+  "discount_rate": "10",
+  "helper": true,
+  "id": "123456",
+  "service_id": "service-7890",
+  "updated_at": 1724854703,
+  "user_id": "user-123"
+}
+```
+
+
+## Edit Authorization
+
+```json
+{
+  "created_at": 1724854703,
+  "discount_rate": "10",
+  "helper": true,
+  "id": "Auth editada",
+  "service_id": "Servicio editado",
+  "updated_at": 1724854703,
+  "user_id": "Servicio editado"
+}
+```
