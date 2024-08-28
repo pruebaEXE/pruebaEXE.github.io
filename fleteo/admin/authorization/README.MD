@@ -48,6 +48,6 @@
   "id": "Auth editada",
   "service_id": "Servicio editado",
   "updated_at": 1724854703,
-  "user_id": "Servicio editado"
+  "user_id": "User editado"
 }
 ```
