@@ -357,6 +357,10 @@
       "user_roles": [],
       "notify_fcm": true
     }
-  ]
+  ],
+  "Content-Type": "application/json",
+  "Access-Control-Allow-Origin": "*",
+  "Access-Control-Allow-Headers": "Content-Type,Authorization",
+  "Access-Control-Allow-Methods": "OPTIONS,POST,GET,PUT,DELETE"
 }
 ```
