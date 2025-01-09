@@ -1,18 +1,23 @@
 
+### User get
+
+```json
+{
+  "cedula": 12345,
+  "phone_number": 3222222,
+  "first_name": "Luis",
+  "last_name": "Londoza Melendez"
+}
+```
+
+
 ### User new
 
 ```json
 {
-  "email": "mail@example.com",
-  "identification": "12345678968",
-  "username": "Alfredo Torres",
-  "roles": [
-    "admin",
-    "developer",
-    "CampaignPromoter"
-  ],
-  "cellphone": 301666277829,
-  "created_at": 1732738003,
-  "updated_at": 1731358418
+  "cedula": 12345,
+  "phone_number": 3222222,
+  "first_name": "Andres Nuevo",
+  "last_name": "Londoza Nuevo"
 }
 ```
