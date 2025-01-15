@@ -31,7 +31,7 @@
 {
   "items": [
     {
-      "event_date": 16532415200,
+      "event_date": 1739667697,
       "address": "Calle 45 # 67 - 89",
       "description": "Seminario sobre movilidad sostenible y soluciones de transporte urbano",
       "title": "Foro movilidad verde M2",
@@ -39,7 +39,7 @@
       "created_at": 1834799210
     },
     {
-      "event_date": 16789273210,
+      "event_date": 1742573017,
       "address": "Avenida 15 # 10 - 50",
       "description": "Taller participativo sobre reciclaje y reducción de residuos",
       "title": "Jornada reciclaje comunitario M3",
@@ -47,7 +47,7 @@
       "created_at": 1845567123
     },
     {
-      "event_date": 16214590230,
+      "event_date": 1755808237,
       "address": "Diagonal 77 # 99 - 12",
       "description": "Charla informativa sobre energías renovables para hogares",
       "title": "Charla energía solar M4",
@@ -55,7 +55,7 @@
       "created_at": 1793324120
     },
     {
-      "event_date": 16078465215,
+      "event_date": 1792469700,
       "address": "Carrera 8 # 34 - 56",
       "description": "Reunión comunitaria sobre mantenimiento de parques locales",
       "title": "Encuentro comunitario M5",
