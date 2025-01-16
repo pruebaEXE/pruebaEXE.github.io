@@ -31,6 +31,7 @@
 {
   "items": [
     {
+      "id": "13a0ad02-5f2a-42f5-b58b-4643a058590a",
       "event_date": 1739667697,
       "address": "Calle 45 # 67 - 89",
       "description": "Seminario sobre movilidad sostenible y soluciones de transporte urbano",
@@ -39,6 +40,7 @@
       "created_at": 1834799210
     },
     {
+      "id": "13a0ad02-5f2a-42f5-b58b-4978dvdsvss893",
       "event_date": 1742573017,
       "address": "Avenida 15 # 10 - 50",
       "description": "Taller participativo sobre reciclaje y reducción de residuos",
@@ -47,6 +49,7 @@
       "created_at": 1845567123
     },
     {
+      "id": "13a0ad02-5f2a-42f5-b58b-svsisoegjij349",
       "event_date": 1755808237,
       "address": "Diagonal 77 # 99 - 12",
       "description": "Charla informativa sobre energías renovables para hogares",
@@ -55,6 +58,7 @@
       "created_at": 1793324120
     },
     {
+      "id": "13a0ad02-5f2a-42f5-b58b-08898098dvvsd",
       "event_date": 1792469700,
       "address": "Carrera 8 # 34 - 56",
       "description": "Reunión comunitaria sobre mantenimiento de parques locales",
