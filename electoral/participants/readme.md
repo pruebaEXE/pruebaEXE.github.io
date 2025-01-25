@@ -1,4 +1,17 @@
 
+## NEW Participant 
+
+```json
+{
+  "id_card": "789789789772",
+  "cellphone": "3109876543",
+  "first_name": "NEW - Laura",
+  "middle_name": "Valentina",
+  "surname": "Pérez",
+  "second_surname": "García",
+  "email": "laura.valentina.perez@example.com"
+}
+```
 
 ## Show Participant 
 
